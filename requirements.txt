@@ -1,0 +1,5 @@
+streamlit==1.25.0
+opencv-python-headless==4.8.1.78
+numpy==1.25.2
+google-cloud-vision==3.11.2
+protobuf==4.24.4
